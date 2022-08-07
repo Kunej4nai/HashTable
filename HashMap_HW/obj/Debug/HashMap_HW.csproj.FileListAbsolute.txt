@@ -1,0 +1,16 @@
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\bin\Debug\HashMap_HW.exe.config
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\bin\Debug\HashMap_HW.exe
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\bin\Debug\HashMap_HW.pdb
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.csproj.AssemblyReference.cache
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\MainWindow.g.cs
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\App.g.cs
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW_MarkupCompile.cache
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW_MarkupCompile.lref
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\MainWindow.baml
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.g.resources
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.Properties.Resources.resources
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.csproj.GenerateResource.cache
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.csproj.CoreCompileInputs.cache
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.exe
+C:\Users\FERN\Desktop\T-DEV\HashMap_HW\obj\Debug\HashMap_HW.pdb
